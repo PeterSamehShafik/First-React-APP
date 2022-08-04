@@ -1,0 +1,12 @@
+.about{
+    background-color: #1abc9c;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+.about .section-header{
+    color: white;
+}
+.about .line{
+    background-color: white;
+}

@@ -1,0 +1,30 @@
+input,textarea{
+    margin: 10px 0px;
+    border: none !important;
+    /* border-bottom: 1px rgb(193, 193, 193) solid !important; */
+    /* width: 100%; */
+}
+*::placeholder{
+ font-size: larger;
+ font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.form-control:focus {
+    color: transparent;
+    background-color: transparent;
+    border-color: transparent;
+    outline: 0;
+    box-shadow: 0 0 0 0 !important;
+}
+
+.btn-form{
+    background-color: #1abc9c !important;
+    color: white !important;
+    padding: 20px 20px !important;
+    font-size: larger !important;
+    border-radius: 10% !important;
+    transition: 0.5;
+}
+
+.btn-form:hover{
+    background-color: #1c816d !important;
+}

@@ -1,0 +1,10 @@
+.home{
+    background-color: #1abc9c;
+    height: 100vh;
+}
+.home .section-header{
+    color: white !important;
+}
+.home .line{
+    background-color: white !important;
+}
